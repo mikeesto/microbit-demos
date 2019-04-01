@@ -31,5 +31,3 @@ A collection of demos for the Micro:bit
 | speaker           | Speaker module                | A0                   | Play music beats                                                                          |
 | switch            | Switch module                 | D12, D13, D14 or D15 | Toggle switch to display 'open' or 'closed'                                               |
 | temp-and-humidity | Temperature & humidity sensor | D12, D13, D14 or D15 | Press button A to display current temperature. Press button B to display current humidity |
-
-#### TO DO: Is there minode support on offline code editor?
