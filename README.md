@@ -16,6 +16,9 @@ A collection of demos for the Micro:bit
 | temperature       | Display current temperature                                                           |
 | throwingSpeed     | Display accelerometer reading as a bar graph                                          |
 | ledOn             | Display smiley face. Toggle nose with button press                                    |
+| magic8ball        | Ask a question and shake for the answer                                               |
+| balancingAct      | Stop a LED from falling off the matrix while moving around a room                     |
+| blockDodge        | Avoid falling blocks. For every block avoided, player's score increases               |
 
 ## mi:node IoT starter kit demos
 
