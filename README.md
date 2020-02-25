@@ -4,21 +4,21 @@ A collection of demos for the Micro:bit
 
 ## Standalone demos
 
-| Filename(s)       | Description                                                                           |
-| ----------------- | ------------------------------------------------------------------------------------- |
-| sender & receiver | Send a word to another micro:bit that displays the word                               |
-| compass           | Read compass heading and display N,S,E,W                                              |
-| displayWords      | Display string on shake and button press                                              |
-| sortinghat        | Press button to play Harry Potter theme song and display random house name            |
-| lightSensor       | Display current light level as a graph                                                |
-| passTheParcel     | Press button, after a random period of time a song is played and heart icon displayed |
-| stepCounter       | Display number of steps taken                                                         |
-| temperature       | Display current temperature                                                           |
-| throwingSpeed     | Display accelerometer reading as a bar graph                                          |
-| ledOn             | Display smiley face. Toggle nose with button press                                    |
-| magic8ball        | Ask a question and shake for the answer                                               |
-| balancingAct      | Stop a LED from falling off the matrix while moving around a room                     |
-| blockDodge        | Avoid falling blocks. For every block avoided, player's score increases               |
+| Filename(s)       | Description                                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| sender & receiver | Send a word to another micro:bit that displays the word                                                                                    |
+| compass           | Read compass heading and display N,S,E,W                                                                                                   |
+| displayWords      | Display string on shake and button press                                                                                                   |
+| sortinghat        | Press button to play Harry Potter theme song and display random house name                                                                 |
+| lightSensor       | Display current light level as a graph                                                                                                     |
+| passTheParcel     | Press button, after a random period of time a song is played and heart icon displayed                                                      |
+| stepCounter       | Display number of steps taken                                                                                                              |
+| temperature       | Display current temperature                                                                                                                |
+| throwingSpeed     | Display accelerometer reading as a bar graph                                                                                               |
+| ledOn             | Display smiley face. Toggle nose with button press                                                                                         |
+| magic8ball        | Ask a question and shake for the answer                                                                                                    |
+| balancingAct      | Stop a LED from falling off the matrix while moving around a room                                                                          |
+| blockDodge        | Avoid falling LED blocks by moving your player across the matrix with the A & B buttons. For every block avoided, player's score increases |
 
 ## mi:node IoT starter kit demos
 
